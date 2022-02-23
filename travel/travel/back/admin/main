@@ -1,0 +1,4 @@
+class Hero: # template
+	pass
+
+	hero1 = Hero
